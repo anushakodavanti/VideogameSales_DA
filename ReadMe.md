@@ -2,7 +2,11 @@
 
 ### VideogameSales
 
-The data set has fields related to sale of videogames based on Year, Genre, Publisher and Global Sales
+*The data set has fields related to sale of videogames* 
+- Year, 
+- Genre, 
+- Publisher  
+- Global Sales
 
 **By using this data set we will answer the following questions**
 1. Total Videogame sales by year 
